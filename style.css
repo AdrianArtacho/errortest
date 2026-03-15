@@ -1,0 +1,13 @@
+#score{
+    margin-top:40px;
+    font-size:30px;
+}
+
+.note{
+    padding:10px;
+    cursor:pointer;
+}
+
+.note:hover{
+    background:#eee;
+}
