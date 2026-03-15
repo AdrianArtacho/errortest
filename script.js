@@ -1,3 +1,5 @@
+console.log("script loaded")
+
 let melody
 let wrongIndex
 
